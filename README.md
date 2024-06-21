@@ -1,4 +1,4 @@
-Certainly! Let's delve deeper into the results of optimizations and parameter settings based on the models we discussed: the simple neural network model without optimizations and the neural network model with three optimization techniques (learning rate scheduling, early stopping, and dropout).
+# Discusion of the results of optimizations and parameter settings based on the models we discussed: the simple neural network model without optimizations and the neural network model with three optimization techniques (learning rate scheduling, early stopping, and dropout).
 
 ### Results Analysis
 
